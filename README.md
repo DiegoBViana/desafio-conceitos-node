@@ -2,4 +2,4 @@
 
 <h2 align="center">Desafio Bootcamp GoStack Conceitos NodeJS</h2>
 
-<p>Aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".</p>
+<p>Aplicação para armazenar repositórios do seu portfólio, que permite a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes".</p>
